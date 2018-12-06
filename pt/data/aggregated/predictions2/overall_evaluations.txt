@@ -1,0 +1,1 @@
+{'mean_mil_5_95': 15.846411007983857, 'mean_absolute_median_deviation': 0.04780073944669595, 'mean_cross_overs': 918.2, 'mean_icp_5_95': 0.8652661064425771, 'total_mean_tilted_loss': 1924.0635280185968}
